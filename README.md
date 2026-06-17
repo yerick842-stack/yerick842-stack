@@ -1,6 +1,6 @@
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style><p align="center">
+    <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yerick&fontSize=70&animation=twinkling" />
 </p>
 
