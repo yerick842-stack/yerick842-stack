@@ -1,44 +1,9 @@
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text {
-        font-family: 'Inter', sans-serif;
-        font-weight: 700;
-        font-size: 65px;
-        fill: #ffffff;
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
-      .gradient-background {
-        width: 100%;
-        height: 100%;
-        fill: url(#gradient);
-        animation: gradientAnimation 10s ease infinite;
-      }
-      @keyframes gradientAnimation {
-        0% { fill: url(#gradient1); }
-        50% { fill: url(#gradient2); }
-        100% { fill: url(#gradient1); }
-      }
-    </style>
-    <defs>
-      <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#2196F3" />
-        <stop offset="50%" stop-color="#9C27B0" />
-        <stop offset="100%" stop-color="#FF5722" />
-      </linearGradient>
-      <linearGradient id="gradient2" x1="100%" y1="100%" x2="0%" y2="0%">
-        <stop offset="0%" stop-color="#E91E63" />
-        <stop offset="50%" stop-color="#673AB7" />
-        <stop offset="100%" stop-color="#00BCD4" />
-      </linearGradient>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#2196F3" />
-        <stop offset="100%" stop-color="#FF5722" />
-      </linearGradient>
-    </defs>
-    <rect class="gradient-background" rx="10" ry="10" />
-    <text x="50%" y="50%" class="text">Yerick</text>
+    <style><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yerick&fontSize=70&animation=twinkling" />
+</p>
+
   </svg>
 </p>
 
