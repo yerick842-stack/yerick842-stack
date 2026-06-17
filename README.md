@@ -1,6 +1,18 @@
-# ¡Hola! Soy Yerick 👋
+<!-- Banner animado de bienvenida -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yerick%20Stack&fontSize=70&animation=twinkling" width="100%" />
 
-Desarrollador enfocado en la automatización, la creación de herramientas útiles y el diseño de software modular. Me encanta resolver problemas prácticos con código limpio y bien estructurado.
+<table>
+  <tr>
+    <td>
+      <h1>¡Hola! Soy Yerick 👋</h1>
+      <p>Desarrollador enfocado en la automatización, la creación de herramientas útiles y el diseño de software modular. Me encanta resolver problemas prácticos con código limpio y bien estructurado.</p>
+    </td>
+    <td>
+      <!-- Un toque de animación para tu perfil -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwY3N5Ym90bXN3ZXd5bTM0ZXFtcXN0cmV5bTI1d3A0Y3d0MDRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,11 +32,9 @@ Desarrollador enfocado en la automatización, la creación de herramientas útil
 
 ---
 
-## ⚡ En qué estoy trabajando ahora mismo...
-- 🔄 Perfeccionando estructuras modulares para la gestión de comandos y eventos
-- 🛡️ Implementando herramientas de administración avanzada, bases de datos y seguridad en mis proyectos
-- 🧪 Desarrollando utilidades eficientes para la manipulación y conversión de datos en el entorno de ejecución
+## 📈 Mis Estadísticas de GitHub
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yerick842-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
 
-*✨ "El código limpio no surge por accidente, se construye con paciencia y buena estructura."*
