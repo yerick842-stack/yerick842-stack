@@ -1,19 +1,21 @@
+
+
 # ¡Hola! Soy Yerick 👋
 
-Desarrollador enfocado en la automatización, la creación de herramientas útiles y el diseño de software modular. Me encanta resolver problemas prácticos con código limpio y bien estructurado.
+Desarrollador enfocado en la automatización, la creación de herramientas útiles y el diseño de software modular. Me encanta resolver problemas prácticos con código limpio, escalable y bien estructurado.
 
 ---
 
 ## 🚀 Lo que hago
-- 🤖 **Automatización avanzada:** Desarrollo de bots interactivos con manejadores de comandos modulares y dinámicos.
-- 🛠️ **Herramientas y utilidades:** Creación de scripts eficientes, evaluadores de código en tiempo real y convertidores de datos.
-- 📐 **Arquitectura limpia:** Obsesionado con mantener el orden. Prefiero separar la lógica por módulos independientes en lugar de tener archivos gigantes ilegibles.
+- 🤖 **Automatización avanzada:** Desarrollo de bots interactivos con manejadores de comandos modulares, dinámicos y altamente eficientes.
+- 🛠️ **Herramientas y utilidades:** Creación de scripts óptimos, evaluadores de código y convertidores de datos que simplifican procesos complejos.
+- 📐 **Arquitectura limpia:** Obsesionado con el orden. Prefiero separar la lógica en módulos independientes y reutilizables en lugar de acumular archivos gigantescos e ilegibles.
 
 ---
 
 ## 💻 Lenguajes de Programación y Tecnologías
 
-Aquí tienes las herramientas y lenguajes que domino para dar vida a mis proyectos:
+Aquí tienes las herramientas y lenguajes que utilizo para estructurar y dar vida a mis proyectos:
 
 ### 🧠 Lenguajes
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,14 +29,16 @@ Aquí tienes las herramientas y lenguajes que domino para dar vida a mis proyect
 ---
 
 ## ⚡ En qué estoy trabajando ahora mismo...
-- 🧠 **Asistente Multiusos de IA:** Desarrollando un asistente inteligente, adaptable y multifuncional utilizando modelos de lenguaje avanzados.
-- 🔄 Perfeccionando estructuras modulares para la gestión de comandos y eventos.
-- 🧪 Diseñando utilidades eficientes para la manipulación y procesamiento de datos en entornos de automatización.
+- 🧠 **Asistente Multiusos de IA:** Desarrollando un asistente inteligente, adaptable y multifuncional utilizando modelos de lenguaje avanzados para optimizar flujos de trabajo cotidianos.
+- 🛡️ **Sistemas de Moderación Inteligente:** Creando herramientas y plugins de administración automática capaces de procesar eventos en tiempo real para mantener entornos de mensajería limpios y ordenados.
+- 🔄 **Estructuras Modulares:** Diseñando middleware robusto para la gestión fluida de comandos y la manipulación segura de datos.
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
+## 🛠️ Filosofía de Desarrollo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerick842-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
+Para mí, programar va mucho más allá de hacer que las cosas funcionen. Me guío por estos tres pilares fundamentales:
+
+* **Escalabilidad:** Cada módulo que escribo está pensado para que el sistema pueda expandirse en el futuro sin necesidad de reescribir la base.
+* **Seguridad y Robustez:** Implementación estricta de manejo de errores, prevención de fallos críticos y validación exhaustiva de datos entrantes.
+* **Código Legible:** Priorizo la claridad, usando nombres de variables semánticos y una estructuración lógica que haga que el código hable por sí mismo.
